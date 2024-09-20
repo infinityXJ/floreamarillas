@@ -1,0 +1,27 @@
+*{
+    margin: 3;
+}
+
+body{
+    background-image: linear-gradient(135deg,#00e7d4, #505488, #ef3f80, #161569, #ef3f80, #505488, #00E7D4 );
+    background-size: 500%;
+    animation: fanimado 60s infinite;
+}
+
+p{
+    font-size: xx-large;
+    padding:   0.1.%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 1.80em;
+}
+
+#yesBtn{
+    transform: translate( 100%,0);
+}
+
+#noBtn{
+    position: absolute; 
+}
